@@ -1,2 +1,2 @@
 midterm project
-simple blog makingㅡ
+simple blog making
