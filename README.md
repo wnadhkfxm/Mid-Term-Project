@@ -1,1 +1,2 @@
-# jaewon_blog.github.io
+midterm project
+simple blog makingㅡ
